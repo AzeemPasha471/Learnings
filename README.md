@@ -63,7 +63,7 @@ rough representation
 
 ### Performance measure.
 ![alt text](img_scr/image14.png)
-<img src="image15.png" width="400" height="200">
+<img src="img_scr/image15.png" width="400" height="200">
 
 
 ### Cost.

@@ -3,6 +3,8 @@
 ## control plane controller
 ![cntollers](image1.png)
 
+## pods,nodes, container, deployments & cluster
+
 
 ## liveness probe
 ![liveness prove](image2.png)
@@ -269,4 +271,5 @@ need to provide the helm in terraform providers as below.
 EBS CIS driver helps in providing or setting the EBS volumes to statefulset.
 
 EBS CSI (container storage interface) is an add on in eks and need the role to make the aws API calls.
+
 
